@@ -1,0 +1,10 @@
+.list-group-item i{
+    cursor: pointer;
+    font-size: 28px;
+}
+body{
+    background-image: url(../images/image2.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
