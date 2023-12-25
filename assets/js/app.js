@@ -180,7 +180,7 @@ const todoAddHandler = (eve) => {
               icon : "success",
               text : `${todoObj.todoItem} is added in todo skill bucketlist`,
               timer : 3000
-            })
+           })
 
 }    
 
